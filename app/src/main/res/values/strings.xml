@@ -1,0 +1,9 @@
+
+<resources>
+    <string name="app_name">Turf App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_word">Reunions</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Reunion not saved because it is empty.</string>
+    <string name="add_word">Add reunion</string>
+</resources>
